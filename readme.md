@@ -7,7 +7,7 @@
 5. [x] requirements.txt
 6. [x] readme.md
 7. [ ] Dockerize
-8. [ ] Deploy to heroku first time
+8. [x] Deploy to heroku first time
 
 
 Reference
